@@ -46,11 +46,12 @@
  
  ## Doe um Café!
   ​[![​Binance​](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white&link=0x7157b42C59E05431cC41Ea396476D367D7668Fef)](0x7157b42C59E05431cC41Ea396476D367D7668Fef) 
-  
   ![​Upwork​](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
   
  ## EstatÍsticas 
   
 ​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=omaigodi)
+
 ​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
+
 ​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
