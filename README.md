@@ -12,6 +12,9 @@
 ​![​NodeJS​](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ​![​React​](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ​![​Redux​Router​](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+# Servidor/SaaS
+
 ​![​Firebase​](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
 # Blockchain
@@ -34,7 +37,9 @@
 ​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
 ​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
 
-
+# Design
+​![​Photosho​](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+​![​Illustrator​](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # Fale comigo!
 
