@@ -1,7 +1,9 @@
 <a href="https://instagram.com/caina.zamp">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Cainã Zampieri</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Cainã Zampieri</b></sub></a> <a href="https://instagram.com/caina.zamp" title="Cainã Zampieri">🚀</a>
+ 
+  ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://instagram.com/caina.zamp)](mailto:https://instagram.com/caina.zamp) ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
  
 # Cainã Zampieri
 
@@ -43,7 +45,7 @@
 
 ## • Fale comigo!
 
- ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://instagram.com/caina.zamp)](mailto:https://instagram.com/caina.zamp) ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
+
  
  ## • Doe um Café!
   ​[![​Binance​](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white&link=0x7157b42C59E05431cC41Ea396476D367D7668Fef)](0x7157b42C59E05431cC41Ea396476D367D7668Fef) ![​Upwork​](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
