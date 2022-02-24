@@ -31,7 +31,6 @@
 
 
 ​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=omaigodi)
-​![​​](https://github-readme-streak-stats.herokuapp.com/?user=omaigodi)
 ​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
 ​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
 
@@ -43,3 +42,5 @@
  ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://instagram.com/caina.zamp)](mailto:https://instagram.com/caina.zamp)
  ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) 
  ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
+ 
+ ​[![​Me compre um café!​](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white "Me compre um Café!"&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
