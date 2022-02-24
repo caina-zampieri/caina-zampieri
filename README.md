@@ -1,4 +1,4 @@
-<a href="https://instagram.com/caina.zamp" >
+<a href="https://instagram.com/caina.zamp" style="display:inline-block;">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/18425157?v=4" width="100px;" alt=""/> <h1>• Cainã Zampieri</>
  </a>
  <br />
