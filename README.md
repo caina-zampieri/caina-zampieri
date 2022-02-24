@@ -1,5 +1,6 @@
-<a href="https://instagram.com/caina.zamp">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/18425157?v=4" width="100px;" alt=""/> <h1>• Cainã Zampieri</>
+<a href="https://instagram.com/caina.zamp" >
+ <img style="border-radius: 50%;" width="100px;" alt=""/> <h1>• Cainã Zampieri</>
+ </a>
  <br />
  
  ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://instagram.com/caina.zamp)](mailto:https://instagram.com/caina.zamp) ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
