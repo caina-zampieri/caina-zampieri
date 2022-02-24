@@ -1,5 +1,10 @@
+<style>
+ .perfil{
+ border-radius: 50%; display:;inline-block;
+ }
+ </style>
 
- <img style="border-radius: 50%; display:;inline-block;" src="https://avatars.githubusercontent.com/u/18425157?v=4" width="100px;" alt=""/>
+ <img class="perfil" style="border-radius: 50%; display:;inline-block;" src="https://avatars.githubusercontent.com/u/18425157?v=4" width="100px;" alt=""/>
  <h1 style="display:;inline-block;">• Cainã Zampieri </h1>
  <br />
  
