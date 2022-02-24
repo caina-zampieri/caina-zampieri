@@ -1,12 +1,8 @@
 # Cainã Zampieri
 
-### Features
+### Estudo atual
 
-- [x] Design
-- [x] JavaScript
-- [x] Blockchain Expert
-- [ ] Web3.js
-- [ ] Solidity
+- [x] JavaScript - [x] React.js - [x] Blockchain Expert - [x] Web3.js - [x] Solidity
 
  ## • Web
  
