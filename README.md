@@ -31,10 +31,10 @@
 
 
 ​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=omaigodi)
-​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
-​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
-
 ​![​​](https://github-readme-streak-stats.herokuapp.com/?user=omaigodi)
+​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
+​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
+
 
 
 # Fale comigo!
