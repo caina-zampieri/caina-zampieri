@@ -23,7 +23,7 @@
 
 
 
-​![​Most Used Language​](https://github-readme-stats.vercel.app/api/top-langs/?username={Omaigodi})
+​![​Most Used Language​](https://github-readme-stats.vercel.app/api/top-langs/?omaigodi)
 
 
 
