@@ -1,3 +1,8 @@
+<a href="https://instagram.com/caina.zamp">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Cainã Zampieri</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ 
 # Cainã Zampieri
 
 ### Estudo atual
