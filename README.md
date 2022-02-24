@@ -3,10 +3,10 @@
 ### Estudo atual
 
 - [x] JavaScript
-- [ ] - [x] React.js
-- [ ] - [x] Blockchain Expert
-- [ ] - [x] Web3.js
-- [ ] - [x] Solidity
+- [x] React.js
+- [x] Blockchain Expert
+- [x] Web3.js
+- [x] Solidity
 
  ## • Web
  
