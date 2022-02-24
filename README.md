@@ -31,23 +31,26 @@
 ​![​Photosho​](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ​![​Illustrator​](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-### Adicionais
+## Adicionais
 
 ​![​Git​](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ​![​PowerShell​](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+​![​Trello​](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-# Fale comigo!
+## Fale comigo!
 
  ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://instagram.com/caina.zamp)](mailto:https://instagram.com/caina.zamp)
  ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) 
  ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
  
- # Doe um Café!
+ ## Doe um Café!
   ​[![​Binance​](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white&link=0x7157b42C59E05431cC41Ea396476D367D7668Fef)](0x7157b42C59E05431cC41Ea396476D367D7668Fef) 
   
-  # EstatÍsticas 
+  ​[![​Upwork​](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
   
- ​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=omaigodi)
+ ## EstatÍsticas 
+  
+​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=omaigodi)
 ​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
 ​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
