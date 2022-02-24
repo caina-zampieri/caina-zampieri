@@ -43,4 +43,4 @@
  ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) 
  ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
  
- ​[![​Me compre um café!​](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white "Me compre um Café!"&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
+ ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
