@@ -22,8 +22,7 @@
 ​![​PowerShell​](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-
-​![​Most Used Language​](https://github-readme-stats.vercel.app/api/top-langs/?username="omaigodi")
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={omaigodi}" >
 
 
 
