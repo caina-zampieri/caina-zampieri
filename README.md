@@ -17,5 +17,5 @@
 
  ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://instagram.com/caina.zamp)](mailto:https://instagram.com/caina.zamp)
 
- ​[![​Linkedin​](https://img.shields.io/badge/-Cainã_Zampieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) 
- ​[![​Gmail​](https://img.shields.io/badge/-caina.zampieri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
+ ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) 
+ ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
