@@ -4,17 +4,15 @@
 
 ### Estudos atuais
 
-![Progress](https://progress-bar.dev/60/?title=JavaScript)
+![Progress](https://progress-bar.dev/70/?title=Blockchain)
+
+![Progress](https://progress-bar.dev/60/?style=for-the-badge?title=JavaScript)
 
 ![Progress](https://progress-bar.dev/50/?title=React.js)
 
-![Progress](https://progress-bar.dev/70/?title=Blockchain)
-
-![Progress](https://progress-bar.dev/30/?title=Web3.js)
-
 ![Progress](https://progress-bar.dev/30/?title=Solidity)
 
-
+![Progress](https://progress-bar.dev/15/?title=Web3.js)
 
 
  ## • Web
