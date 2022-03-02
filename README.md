@@ -14,6 +14,11 @@
 
 ![Progress](https://progress-bar.dev/15/?title=Web3.js)
 
+<style>
+ progress {
+  -webkit-appearance: none;
+}
+ </style>
 
  ## • Web
  
