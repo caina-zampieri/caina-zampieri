@@ -10,6 +10,8 @@
 - [x] Web3.js
 - [x] Solidity
 
+![50%] https://progress-bar.dev/50?title=Solidity
+
  ## • Web
  
  ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ​![​Css3​](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ​![​JQuery​](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ​![​Bootstrap​](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -48,7 +50,3 @@
 ​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
 
 ​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
-
-
-
-<progress value=”32" max=”100"></progress>
