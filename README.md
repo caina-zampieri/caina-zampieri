@@ -4,11 +4,11 @@
 
 ### Estudos atuais
 
-- [x] JavaScript
-- [x] React.js
-- [x] Blockchain Expert
-- [x] Web3.js
-- [x] ![Progress](https://progress-bar.dev/91/?title=Solidity)
+![Progress](https://progress-bar.dev/60/?title=JavaScript)
+![Progress](https://progress-bar.dev/50/?title=React.js)
+![Progress](https://progress-bar.dev/70/?title=Blockchain)
+![Progress](https://progress-bar.dev/30/?title=Web3.js)
+![Progress](https://progress-bar.dev/30/?title=Solidity)
 
 
 
