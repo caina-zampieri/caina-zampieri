@@ -4,11 +4,13 @@
 
 ### Estudos atuais
 
-- [x] JavaScript Barra de progresso <progress value=”32" max=”100"></progress>
+- [x] JavaScript
 - [x] React.js
 - [x] Blockchain Expert
 - [x] Web3.js
 - [x] Solidity
+
+Barra de progresso <progress value=”32" max=”100">aaa</progress>
 
  ## • Web
  
