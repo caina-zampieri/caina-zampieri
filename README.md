@@ -10,7 +10,7 @@
 - [x] Web3.js
 - [x] Solidity
 
-![50%] https://progress-bar.dev/50?title=Solidity
+![Progress](https://progress-bar.dev/91/?title=Solidity)
 
  ## • Web
  
