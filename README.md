@@ -8,9 +8,9 @@
 - [x] React.js
 - [x] Blockchain Expert
 - [x] Web3.js
-- [x] Solidity
+- [x] ![Progress](https://progress-bar.dev/91/?title=Solidity)
 
-![Progress](https://progress-bar.dev/91/?title=Solidity)
+
 
  ## • Web
  
