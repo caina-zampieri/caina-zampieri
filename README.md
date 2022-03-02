@@ -10,7 +10,7 @@
 - [x] Web3.js
 - [x] Solidity
 
-Barra de progresso <progress value=”32" max=”100">aaa</progress>
+<progress value=”32" max=”100">aaa</progress>
 
  ## • Web
  
