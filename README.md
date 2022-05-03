@@ -58,3 +58,6 @@
 ​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
 
 ​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
+
+## • Codewars Stats
+​![​Codewars​](https://www.codewars.com/users/omaigodi/badges/large) 
