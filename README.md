@@ -49,15 +49,15 @@
 ​![​Git​](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ​![​PowerShell​](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## • Codewars Stats
-​![​Codewars​](https://www.codewars.com/users/omaigodi/badges/large) 
+​![​Codewars​](https://www.codewars.com/users/cainazampieri/badges/large) 
  
  ## • Doe um Café!
   ​[![​Binance​](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white&link=0x7157b42C59E05431cC41Ea396476D367D7668Fef)](0x7157b42C59E05431cC41Ea396476D367D7668Fef) ![​Upwork​](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
   
  ## • EstatÍsticas 
   
-​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=omaigodi)
+​![​​](https://github-readme-stats.vercel.app/api/top-langs/?username=cainazampieri)
 
-​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaigodi&theme=vue)
+​![​​](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cainazampieri&theme=vue)
 
-​![​​](https://github-profile-trophy.vercel.app/?username=omaigodi)
+​![​​](https://github-profile-trophy.vercel.app/?username=cainazampieri)
