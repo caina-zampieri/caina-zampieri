@@ -1,5 +1,9 @@
 # Cainã Zampieri
-#### Iniciando no mundo do desenvolvimento voltado para Blockchain após mais de 8 anos de experiência na área de criação de sites e Marketing! Amplo conhecimento de mercado e coordenação de equipes e desenvolvimento de peças publicitárias no Photoshop. Com alto interesse por Blockchain desde cedo, já estou familiarizado com os assuntos desde 2014 quando comprei e minerei meu primeiro Token e hoje procuro aplicar todo meu conhecimento de mercado e marketing no desenvolvimento de aplicações em Blockchain!
+#### Extrovertido, criativo e atencioso. Publicitário apaixonado por Layouts bonitos com resultados. Sempre Atualizado com as últimas notícias e ferramentas do mundo de marketing e desenvolvimento blockchain. Alta dominação em programação Front-end Bootstrap responsivo e de código limpo. Humor é a primeira regra para ser feliz.
+
+#### Focado no mundo do desenvolvimento voltado para Blockchain após mais de 8 anos de experiência na área de criação de sites e Marketing! Amplo conhecimento de mercado e coordenação de equipes e desenvolvimento de peças publicitárias no Photoshop. Com alto interesse por Blockchain desde cedo, já estou familiarizado com os assuntos desde 2014 quando comprei e minerei meu primeiro Token e hoje procuro aplicar todo meu conhecimento de mercado e marketing no desenvolvimento de aplicações em Blockchain!
+
+#### Procuro oportunidades na área!
 
 ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caina.zamp)](https://instagram.com/caina.zamp) ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
 
