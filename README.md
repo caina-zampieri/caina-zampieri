@@ -15,11 +15,13 @@
 
 ![Progress](https://progress-bar.dev/60/?title=JavaScript)
 
-![Progress](https://progress-bar.dev/50/?title=React.js)
+![Progress](https://progress-bar.dev/60/?title=React.js)
+
+![Progress](https://progress-bar.dev/45/?title=Web3.js)
 
 ![Progress](https://progress-bar.dev/30/?title=Solidity)
 
-![Progress](https://progress-bar.dev/15/?title=Web3.js)
+
 
  
  ## • Web
