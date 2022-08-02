@@ -7,7 +7,7 @@
 
 ​[![​Instagram​](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caina.zamp)](https://instagram.com/caina.zamp) ​[![​Linkedin​](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cainazampieri)](https://www.linkedin.com/in/cainazampieri/) ​[![​Gmail​](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caina.zampieri@gmail.com)](mailto:caina.zampieri@gmail.com)
 
-[![Linkedin](https://linkedin-github.herokuapp.com/api/render/Cainã/Zampieri/Desenvolvedor%20Blockchain%20-%20ReactJS/Ensino%20Médio%20Completo/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQEqvWPakqSFiA%2Fprofile-displayphoto-shrink_200_200%2F0%2F1650290327908%3Fe%3D1658361600%26v%3Dbeta%26t%3DXbEGkssjre6Dis4WzOyt3oZL-XgiAZ5Sm86JnR7_SOE)](https://www.linkedin.com/in/cainazampieri/)
+[![Linkedin](https://linkedin-github.herokuapp.com/api/render/Cainã/Zampieri/Desenvolvedor%20Blockchain/ReactJS,%20Solidity,%20NodeJS/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQEqvWPakqSFiA%2Fprofile-displayphoto-shrink_200_200%2F0%2F1650290327908%3Fe%3D1665014400%26v%3Dbeta%26t%3DiiUMtGCWeS-VmKYyPTyrClM013SjsI3pkZcw1F9PrIc)](https://www.linkedin.com/in/cainazampieri/)
 
 ### Estudos atuais
 
