@@ -13,9 +13,9 @@
 
 ![Progress](https://progress-bar.dev/90/?title=Blockchain)
 
-![Progress](https://progress-bar.dev/60/?title=JavaScript)
+![Progress](https://progress-bar.dev/80/?title=JavaScript)
 
-![Progress](https://progress-bar.dev/60/?title=React.js)
+![Progress](https://progress-bar.dev/80/?title=React.js)
 
 ![Progress](https://progress-bar.dev/60/?title=Ethers.js)
 
